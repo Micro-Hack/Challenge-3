@@ -1,22 +1,19 @@
 
 # Micro-hack challenge 3 : 
-this challenge is simple... well the idea is simple , find the shortest path between 2 given nodes. 
+this challenge is simple , given a list of sizes of suits , find how many suits you can stack on top of each other  ()
 
 info : 
-- diagonal connections dont count 
-- the edge is the far right , top , bottom and left numbers
+- suits with same height or width cant not be stacked !!
+
 
 ## Example :
 
-
-
-![image](https://github.com/Micro-Hack/Challenge-2/blob/main/input%201%20(example).png?raw=true)
+suits : [[1,0],[3,2],[7,4],[2,1],[4,3]]
 
 
 ## Solution :
-![image](https://github.com/Micro-Hack/Challenge-2/blob/main/output%201%20(example).png?raw=true)
 
-
+result : 4 suits [[2,1][3,2][4,3][7,4]]
 
 
 
