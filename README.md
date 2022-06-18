@@ -1,5 +1,5 @@
 
-# Micro-hack challenge 3 : 
+# Micro-hack challenge 1 : 
 this challenge is simple , given a list of sizes of suits , find how many suits you can stack on top of each other  ()
 
 info : 
