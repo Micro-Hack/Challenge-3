@@ -1,6 +1,6 @@
 
 # Micro-hack challenge 1 : 
-this challenge is simple , given a list of sizes of suits , find how many suits you can stack on top of each other  ()
+this challenge is simple , given a list of sizes of suits , find how many suits you can stack on top of each other  
 
 info : 
 - suits with same height or width cant not be stacked !!
